@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Identification of the algorithm from the given dataset using AI/ML techniques ​**
 
-- 👯 I’m looking to collaborate on **Cloud native projects**
+- 👯 I’m looking to collaborate on **AI and Automation projects**
 
 - 📫 How to reach me **aaryagavaskar7@gmail.com**
 
